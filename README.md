@@ -95,15 +95,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
 
-<h3 align="center">THRIVING TO GET BIGGER, BETTER & STRONGER EVERYDAY</h3>
-<!-- For making transition -->
-<p align="center">
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="270px">
-<img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="400px"></p>
-
-
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
